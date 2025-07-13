@@ -1,0 +1,12 @@
+{
+  "name": "com.ez.unitask.extensions",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.unitask.extensions",
+  "description": "UniTask Extensions",
+  "unity": "2019.4",
+  "author": {
+    "name": "ez.engine",
+    "email": "taipvnb@gmail.com",
+    "url": "taipvnb@gmail.com"
+  }
+}
