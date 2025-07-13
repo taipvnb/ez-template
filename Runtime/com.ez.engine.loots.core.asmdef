@@ -1,0 +1,13 @@
+{
+    "name": "com.ez.engine.loots.core",
+    "rootNamespace": "com.ez.engine.loots.core",
+    "references": [
+        "com.ez.engine.foundation",
+        "com.ez.engine.resources.core"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
