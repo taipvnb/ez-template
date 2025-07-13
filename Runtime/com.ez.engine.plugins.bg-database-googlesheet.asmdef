@@ -1,0 +1,10 @@
+{
+    "name": "com.ez.engine.plugins.bg-database-googlesheet",
+    "rootNamespace": "com.ez.engine.plugins.bg-database-googlesheet",
+    "references": [],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

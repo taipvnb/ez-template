@@ -1,0 +1,6 @@
+{
+  "name": "com.ez.engine.plugins.bg-database-googlesheet",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.plugins.bg-database-googlesheet",
+  "description": "This plugin adds support for export/import to Google Sheets in Unity Editor."
+}
