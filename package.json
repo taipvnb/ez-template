@@ -1,0 +1,6 @@
+{
+  "name": "com.ez.engine.plugins.bg-database",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.plugins.bg-database",
+  "description": "Data manager for Unity. Excel-like GUI. Relational database design. Runtime changes are auto-reverted just like Unity components values."
+}

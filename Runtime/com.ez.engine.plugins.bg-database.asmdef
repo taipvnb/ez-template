@@ -1,0 +1,10 @@
+{
+    "name": "com.ez.engine.plugins.bg-database",
+    "rootNamespace": "com.ez.engine.plugins.bg-database",
+    "references": [],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
