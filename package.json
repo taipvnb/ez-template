@@ -1,0 +1,10 @@
+{
+  "name": "com.ez.engine.core",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.core",
+  "description": "EZ Engine Core",
+  "dependencies": {
+    "com.ez.engine.foundation": "1.0.0",
+    "com.ez.engine.unitask": "1.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "com.ez.engine.core",
+    "rootNamespace": "com.ez.engine.core",
+    "references": [
+        "com.ez.engine.foundation",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
