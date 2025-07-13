@@ -1,0 +1,18 @@
+{
+    "name": "ProgressBar.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:914d403ef3a3840a1a9562c9230e6378"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

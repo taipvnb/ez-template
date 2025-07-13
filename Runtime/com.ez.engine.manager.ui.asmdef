@@ -1,0 +1,22 @@
+{
+    "name": "com.ez.engine.manager.ui",
+    "rootNamespace": "com.ez.engine.manager.ui",
+    "references": [
+        "com.ez.engine.core",
+        "com.ez.engine.foundation",
+        "com.ez.engine.assets.loader.core",
+        "com.ez.engine.assets.loader.resources",
+        "com.ez.engine.unregister",
+        "com.ez.engine.utils.class-type-reference",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

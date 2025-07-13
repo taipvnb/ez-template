@@ -1,0 +1,17 @@
+{
+  "name": "com.ez.manager.ui",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.manager.ui",
+  "description": "UI Manager",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+   "dependencies": {
+     "com.ez.engine.core": "1.0.0",
+  "com.ez.engine.foundation": "1.0.0",
+     "com.ez.engine.unregister": "1.0.0",
+  "com.ez.engine.utils.class-type-reference": "1.0.0",
+     "com.ez.engine.unitask": "1.0.0"
+   }
+}
