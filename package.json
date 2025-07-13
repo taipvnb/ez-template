@@ -1,0 +1,10 @@
+{
+  "name": "com.ez.engine.message-bus",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.message-bus",
+  "description": "Message Bus Pattern",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.ez.engine.unregister": "1.0.0"
+  }
+}
