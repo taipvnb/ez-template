@@ -1,0 +1,16 @@
+{
+    "name": "com.ez.engine.assets.loader.core",
+    "rootNamespace": "com.ez.engine.assets.loader.core",
+    "references": [
+       "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
