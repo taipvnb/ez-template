@@ -1,0 +1,14 @@
+{
+    "name": "com.ez.engine.save.core",
+    "rootNamespace": "com.ez.engine.save.core",
+    "references": [
+        "com.unity.nuget.newtonsoft-json",
+        "com.ez.engine.json.mini",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

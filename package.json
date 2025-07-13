@@ -1,0 +1,11 @@
+{
+  "name": "com.ez.engine.save.core",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.save.core",
+  "description": "Save and Load Game Data",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.ez.engine.json.mini": "1.0.0",
+    "com.ez.engine.unitask": "1.0.0"
+  }
+}
