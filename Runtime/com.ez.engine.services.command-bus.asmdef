@@ -1,0 +1,14 @@
+{
+    "name": "com.ez.engine.services.command-bus",
+    "rootNamespace": "com.ez.engine.services.command-bus",
+    "references": [
+        "com.ez.engine.core",
+        "com.ez.engine.command-bus",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
