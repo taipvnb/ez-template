@@ -1,0 +1,18 @@
+{
+    "name": "com.ez.engine.utils.class-type-reference.editor",
+    "rootNamespace": "com.ez.engine.utils.class-type-reference.editor",
+    "references": [
+        "com.ez.engine.utils.class-type-reference"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

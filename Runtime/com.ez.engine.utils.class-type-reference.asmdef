@@ -1,0 +1,10 @@
+{
+    "name": "com.ez.engine.utils.class-type-reference",
+    "rootNamespace": "com.ez.engine.utils.class-type-reference",
+    "references": [],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
