@@ -1,0 +1,13 @@
+{
+    "name": "com.ez.engine.save.file",
+    "rootNamespace": "com.ez.engine.save.file",
+    "references": [
+        "com.ez.engine.save.core",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
