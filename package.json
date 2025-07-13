@@ -1,0 +1,10 @@
+{
+  "name": "com.ez.engine.save.playerprefs",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.save.playerprefs",
+  "description": "Save and Load Game Data usage PlayerPrefs Unity API",
+  "dependencies": {
+    "com.ez.engine.save.core": "1.0.0",
+    "com.ez.engine.unitask": "1.0.0"
+  }
+}
