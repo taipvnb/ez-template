@@ -1,0 +1,15 @@
+{
+  "name": "com.ez.engine.manager.save-load",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.manager.save-load",
+  "description": "Save Load Manager",
+  "dependencies": {
+    "com.ez.engine.core": "1.0.0",
+    "com.ez.engine.foundation": "1.0.0",
+    "com.ez.engine.save.core": "1.0.0",
+    "com.ez.engine.save.file": "1.0.0",
+    "com.ez.engine.save.playerprefs": "1.0.0",
+    "com.ez.engine.utils.type-references": "1.0.0",
+    "com.ez.engine.unitask": "1.0.0"
+  }
+}
