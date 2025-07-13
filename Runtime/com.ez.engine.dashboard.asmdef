@@ -1,0 +1,10 @@
+{
+    "name": "com.ez.engine.dashboard",
+    "rootNamespace": "com.ez.engine.dashboard",
+    "references": [],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
