@@ -1,0 +1,14 @@
+{
+    "name": "com.ez.engine.manager.loot",
+    "version": "1.0.2",
+    "displayName": "com.ez.engine.manager.loot",
+    "description": "Loot Manager",
+    "dependencies": {
+        "com.ez.engine.core": "1.0.7",
+        "com.ez.engine.foundation": "1.0.33",
+        "com.ez.engine.loots.core": "1.0.0",
+        "com.ez.engine.resources.core": "1.0.0",
+        "com.ez.engine.command-bus": "1.0.8",
+        "com.ez.engine.unitask": "2.5.5"
+    }
+}

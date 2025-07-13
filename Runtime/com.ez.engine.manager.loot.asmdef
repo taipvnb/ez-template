@@ -1,0 +1,18 @@
+{
+    "name": "com.ez.engine.manager.loot",
+    "rootNamespace": "com.ez.engine.manager.loot",
+    "references": [
+        "com.ez.engine.core",
+        "com.ez.engine.foundation",
+        "com.ez.engine.loots.core",
+        "com.ez.engine.resources.core",
+        "com.ez.engine.command-bus",
+        "com.ez.engine.unitask",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
