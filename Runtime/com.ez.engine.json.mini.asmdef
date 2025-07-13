@@ -1,0 +1,10 @@
+{
+    "name": "com.ez.engine.json.mini",
+    "rootNamespace": "com.ez.engine.json.mini",
+    "references": [],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
