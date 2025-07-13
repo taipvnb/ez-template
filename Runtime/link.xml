@@ -1,0 +1,5 @@
+<linker>
+    <assembly fullname="com.unimob.services.message-bus" ignoreIfMissing="1">
+        <namespace fullname="com.unimob.services.message_bus" preserve="all"/>
+    </assembly>
+</linker>

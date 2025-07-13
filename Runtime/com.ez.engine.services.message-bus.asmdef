@@ -1,0 +1,16 @@
+{
+    "name": "com.ez.engine.services.message-bus",
+    "rootNamespace": "com.ez.engine.services.message-bus",
+    "references": [
+        "com.ez.engine.core",
+        "com.ez.engine.dashboard",
+        "com.ez.engine.message-bus",
+        "UniTask",
+        "com.ez.engine.unregister"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

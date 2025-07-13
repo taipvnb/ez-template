@@ -1,0 +1,12 @@
+{
+  "name": "com.ez.engine.services.message-bus",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.services.message-bus",
+  "description": "Message Bus Service",
+  "dependencies": {
+    "com.ez.engine.core": "1.0.0",
+    "com.ez.engine.dashboard": "1.0.0",
+    "com.ez.engine.message-bus": "1.0.0",
+    "com.ez.engine.unitask": "1.0.0"
+  }
+}
