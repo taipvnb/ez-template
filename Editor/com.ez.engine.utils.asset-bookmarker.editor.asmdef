@@ -1,0 +1,14 @@
+{
+    "name": "com.ez.engine.utils.asset-bookmarker.editor",
+    "rootNamespace": "com.ez.engine.utils.asset-bookmarker.editor",
+    "references": [
+        "com.ez.engine.utils.asset-bookmarker"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

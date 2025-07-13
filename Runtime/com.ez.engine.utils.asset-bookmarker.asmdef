@@ -1,0 +1,10 @@
+{
+    "name": "com.ez.engine.utils.asset-bookmarker",
+    "rootNamespace": "com.ez.engine.utils.asset-bookmarker",
+    "references": [],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
