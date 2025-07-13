@@ -1,0 +1,12 @@
+{
+    "name": "com.ez.engine.resources.core",
+    "rootNamespace": "com.ez.engine.resources.core",
+    "references": [
+        "com.ez.engine.foundation"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

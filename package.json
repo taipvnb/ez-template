@@ -1,0 +1,9 @@
+{
+  "name": "com.ez.engine.resources.core",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.resources.core",
+  "description": "Resources Core",
+  "dependencies": {
+    "com.ez.engine.foundation": "1.0.0"
+  }
+}
