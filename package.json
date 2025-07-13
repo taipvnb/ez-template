@@ -1,0 +1,11 @@
+{
+  "name": "com.ez.engine.services.scene",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.services.scene",
+  "description": "Scene Service",
+  "dependencies": {
+    "com.ez.engine.core": "1.0.0",
+    "com.ez.engine.utils.class-type-reference": "1.0.0",
+    "com.ez.engine.unitask": "1.0.0"
+  }
+}

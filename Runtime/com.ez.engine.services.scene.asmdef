@@ -1,0 +1,21 @@
+{
+    "name": "com.ez.engine.services.scene",
+    "rootNamespace": "com.ez.engine.services.scene",
+    "references": [
+        "com.ez.engine.core",
+        "com.ez.engine.utils.class-type-reference",
+        "UniTask",
+        "Unity.Addressables",
+        "Unity.ResourceManager",
+        "com.ez.engine.foundation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
