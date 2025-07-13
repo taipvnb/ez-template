@@ -1,0 +1,14 @@
+{
+    "name": "com.ez.engine.services.datetime",
+    "rootNamespace": "com.ez.engine.services.datetime",
+    "references": [
+        "com.ez.engine.core",
+        "com.ez.engine.datetime",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

@@ -1,0 +1,5 @@
+<linker>
+    <assembly fullname="com.unimob.services.datetime" ignoreIfMissing="1">
+        <namespace fullname="com.unimob.services.datetime" preserve="all"/>
+    </assembly>
+</linker>

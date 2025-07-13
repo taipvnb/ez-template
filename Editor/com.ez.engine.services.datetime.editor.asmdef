@@ -1,0 +1,14 @@
+{
+    "name": "com.ez.engine.services.datetime.editor",
+    "rootNamespace": "com.ez.engine.services.datetime.editor",
+    "references": [
+        "com.ez.engine.services.datetime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

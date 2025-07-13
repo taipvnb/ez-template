@@ -1,0 +1,11 @@
+{
+  "name": "com.ez.engine.services.datetime",
+  "version": "1.0.0",
+  "displayName": "com.ez.engine.services.datetime",
+  "description": "DateTime Service",
+  "dependencies": {
+    "com.ez.engine.core": "1.0.0",
+    "com.ez.engine.datetime": "1.0.0",
+    "com.ez.engine.unitask": "1.0.0"
+  }
+}
