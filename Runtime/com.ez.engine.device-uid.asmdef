@@ -1,0 +1,10 @@
+{
+    "name": "com.ez.engine.device-uid",
+    "rootNamespace": "com.ez.engine.device-uid",
+    "references": [],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
