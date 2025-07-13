@@ -1,0 +1,14 @@
+{
+    "name": "com.ez.engine.services.device",
+    "rootNamespace": "com.ez.engine.services.device",
+    "references": [
+        "com.ez.engine.core",
+        "com.ez.engine.device-uid",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

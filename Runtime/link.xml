@@ -1,0 +1,5 @@
+<linker>
+    <assembly fullname="com.ez.engine.services.device" ignoreIfMissing="1">
+        <namespace fullname="com.ez.engine.services.device" preserve="all"/>
+    </assembly>
+</linker>
