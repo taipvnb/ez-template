@@ -1,0 +1,18 @@
+{
+    "name": "com.ez.engine.quest.core",
+    "rootNamespace": "com.ez.engine.quest.core",
+    "references": [
+        "GUID:ce9e1ac1cdfc8b8488f1c521f8f2ea11",
+        "GUID:b9ad62799191d654c899849f180b7515",
+        "GUID:9099b0fbca6302647b99a90bb9d278ab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
